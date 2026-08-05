@@ -1,6 +1,6 @@
 {
-    "version":"1.0.1",
-    "notes":"Initial update system added",
+    "version":"1.0.2",
+    "notes":"Improved UI lazzy and hung up issues and better dbms management implementations....",
 
     "download":
     "https://github.com/gaurangacreationstech/MLTG_KIDZ_UPDATES/releases/download/v1.0.1/update.zip"
